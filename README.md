@@ -1,11 +1,60 @@
 # 👋 Hi, I'm Azizul! 
 
-👨‍💻 I'm a Full-stack Developer crafting user-friendly and scalable web applications, cloud servers, and databases. I started my professional journey in 2021.<br/>
-🎓 I completed a Bachelor's in Computer Science majoring in Software Engineering at the University of Wollongong.<br/>
-🌍 Originally from Bangladesh, I'm currently based in Malaysia as an expatriate.<br/>
-🌱 I'm dedicated to staying abreast of emerging trends and technologies, eager to expand my knowledge and expertise.<br/>
-🌮 I enjoy exploring new places and cooking different cuisines.<br/>
-🤝 I'm always open to new opportunities and collaborations. Feel free to connect to discuss potential projects or chat about the latest tech developments!
+# 👨‍💻 Full Stack Developer  
+
+Results-oriented **Full Stack Developer** with **3+ years of hands-on experience** in architecting, building, and maintaining scalable web applications.  
+Passionate about solving complex problems and creating **efficient, user-centric solutions** that deliver measurable business impact.  
+
+---
+
+## 🚀 Professional Highlights  
+
+**TRYKE Transportation**  
+- 🚀 **Driving Efficiency**: Architected and developed an internal task management system that **doubled operational efficiency**.  
+- 💰 **Cost Optimization**: Implemented Firebase optimization strategies that reduced cloud database costs by **95%**, saving the company **$8,000/month**.  
+- ⚡ **Performance Enhancement**: Optimized API performance with asynchronous processes, achieving an **80% reduction in response time**.  
+
+Additional contributions:  
+- Led the development of a **mobile-first web application**.  
+- Integrated secure payment gateways like **Stripe**.  
+- Leveraged **OpenAI API** to generate analytical insights.  
+- Built and deployed applications using **CI/CD practices** in collaborative, agile environments.  
+
+---
+
+## 🌍 Experience & Vision  
+
+Bringing experience from working in **Malaysia’s vibrant tech ecosystem**, I am eager to contribute to **collaborative, multinational teams** and take on **challenging projects** that make a difference.  
+
+---
+
+## 💻 Core Technologies  
+
+**Proficient**  
+- JavaScript, Node.js, Express.js, React.js  
+- HTML5/CSS3  
+- MySQL, NoSQL (Firebase)  
+- REST APIs  
+- Git/GitHub  
+
+**Familiar With**  
+- TypeScript, Next.js, Python, Flask  
+- Redux, Nginx, MongoDB  
+
+---
+
+## ☁️ Cloud & DevOps  
+
+- GCP, Digital Ocean, Firebase  
+- Heroku, Netlify  
+- Linux (CentOS)  
+- CI/CD, Agile/Scrum, JIRA  
+
+---
+
+📬 **Let’s Connect**  
+Feel free to reach out to discuss **technology, innovation, or potential opportunities**!  
+
 
 
 ## 🌐 Socials:
